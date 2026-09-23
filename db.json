@@ -1,0 +1,271 @@
+{
+  "allresumes": [
+    {
+      "fullName": "Vinu KK",
+      "location": "Kannur",
+      "jobtitle": "Front End Developer",
+      "phone": "9876543210",
+      "email": "vinu@gamil.com",
+      "linkedin": "http://linkedin.com/vinu",
+      "github": "http://github.com/vinu",
+      "id": "xraNGRTwm9Y"
+    },
+    {
+      "fullname": "fd",
+      "location": "vf",
+      "jobTitle": ".NET Developer",
+      "email": "gssderhg",
+      "contact": "rg",
+      "linkedin": "ge",
+      "github": "h",
+      "degree": "dfg",
+      "college": "fg",
+      "graduation": "dfg",
+      "skills": [
+        "C#",
+        "ASP.NET Core",
+        "Entity Framework Core",
+        "LINQ",
+        "SQL Server",
+        "REST APIs",
+        "JWT",
+        "Git"
+      ],
+      "summary": "Results-driven .NET Developer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "b5c6_jvfbKw"
+    },
+    {
+      "fullname": "Anamika",
+      "location": "calicut",
+      "jobTitle": "Full Stack Developer",
+      "email": "anami@gmail.com",
+      "contact": "9876543210",
+      "linkedin": "http://linkedin.com/anami",
+      "github": "http://github.com/anami",
+      "degree": "BCA",
+      "college": "Calicut",
+      "graduation": "2025",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "REST APIs",
+        "Git"
+      ],
+      "summary": "Results-driven Full Stack Developer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "PwKbJkrrpzk"
+    },
+    {
+      "fullname": "hari",
+      "location": "Calicut ",
+      "jobTitle": "iOS Developer",
+      "email": "hari@gmail.com",
+      "contact": "9876543210",
+      "linkedin": "linkedin",
+      "github": "http://github.com/hari",
+      "degree": "BSc CS",
+      "college": "Calicut University",
+      "graduation": "2026",
+      "skills": [
+        "Swift",
+        "SwiftUI",
+        "UIKit",
+        "Xcode",
+        "Core Data",
+        "REST APIs",
+        "CocoaPods",
+        "App Store Deployment"
+      ],
+      "summary": "Results-driven iOS Developer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "hpmB81RI1A4"
+    },
+    {
+      "fullname": "salu",
+      "location": "Calicut ",
+      "jobTitle": "Full Stack Developer",
+      "email": "salu@gmail.com",
+      "contact": "9876543210",
+      "linkedin": "http/linkedin",
+      "github": "http://github.com/salu",
+      "degree": "BSc CS",
+      "college": "Calicut University",
+      "graduation": "2026",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "REST APIs",
+        "Git"
+      ],
+      "summary": "Results-driven Full Stack Developer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "i3qkf-cN2iY"
+    },
+    {
+      "fullname": "shala",
+      "location": "calicut",
+      "jobTitle": ".NET Developer",
+      "email": "shala@gmail.com",
+      "contact": "9876543210",
+      "linkedin": "linkedin.com/shala",
+      "github": "github.com/shala",
+      "degree": "BCA",
+      "college": "Calicut",
+      "graduation": "2025",
+      "skills": [
+        "C#",
+        "ASP.NET Core",
+        "Entity Framework Core",
+        "LINQ",
+        "SQL Server",
+        "REST APIs",
+        "JWT",
+        "Git"
+      ],
+      "summary": "Results-driven .NET Developer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "DGIKQOCjMtQ"
+    },
+    {
+      "fullname": "shahana",
+      "location": "Calicut ",
+      "jobTitle": "Software Developer",
+      "email": "shahana@gmail.com",
+      "contact": "9876543210",
+      "linkedin": "http:/link",
+      "github": "http://github.com/shana",
+      "degree": "BSc CS",
+      "college": "Calicut University",
+      "graduation": "2026",
+      "skills": [
+        "Programming",
+        "Git",
+        "SQL",
+        "REST APIs",
+        "Unit Testing",
+        "Debugging",
+        "Agile",
+        "Communication"
+      ],
+      "summary": "Results-driven Software Developer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "TohfmAbzMv0"
+    },
+    {
+      "fullname": "shajeer",
+      "location": "wayanad",
+      "jobTitle": "Python Developer",
+      "email": "shajeer@gmail.com",
+      "contact": "9876543210",
+      "linkedin": "linked.in",
+      "github": "github",
+      "degree": "BCA",
+      "college": "KTU",
+      "graduation": "2025",
+      "skills": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "SQL",
+        "REST APIs",
+        "Pytest",
+        "Git"
+      ],
+      "summary": "Results-driven Python Developer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "WtgdcFq8K3g"
+    },
+    {
+      "fullname": "klakfev",
+      "location": "dc",
+      "jobTitle": "iOS Developer",
+      "email": "kmldc",
+      "contact": "fev",
+      "linkedin": "vf",
+      "github": "vf",
+      "degree": "hjk",
+      "college": "hjk",
+      "graduation": "09",
+      "skills": [
+        "Swift",
+        "SwiftUI",
+        "UIKit",
+        "Xcode",
+        "Core Data",
+        "REST APIs",
+        "CocoaPods",
+        "App Store Deployment"
+      ],
+      "summary": "Results-driven iOS Developer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "-C7Iwyc1Iq0"
+    },
+    {
+      "fullname": "Arun",
+      "location": "Malappuram",
+      "jobTitle": "DevOps Engineer",
+      "email": "arun@gmail.com",
+      "contact": "8765432190",
+      "linkedin": "http:/linkedin.com/arun",
+      "github": "http:/github.com/arun",
+      "degree": "BSc CS",
+      "college": "Calicut University",
+      "graduation": "2026",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "AWS",
+        "Terraform",
+        "Jenkins",
+        "Monitoring"
+      ],
+      "summary": "Results-driven DevOps Engineer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "4x4eK4m"
+    },
+    {
+      "fullname": "Harinandana",
+      "location": "Wayanad",
+      "jobTitle": "Java Developer",
+      "email": "Harinandana@gmail.com",
+      "contact": "7654321890",
+      "linkedin": "http://linkedin.com/Harinandana",
+      "github": "http:/github.com/Harinandana",
+      "degree": "MCA",
+      "college": "Calicut University",
+      "graduation": "2024",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "Maven",
+        "SQL",
+        "REST APIs",
+        "JUnit",
+        "Git"
+      ],
+      "summary": "Results-driven Java Developer with experience in designing, developing, testing, and maintaining high-quality software solutions. Skilled in industry-standard tools and technologies, problem-solving, collaboration, and Agile methodologies. Passionate about delivering scalable, maintainable, and user-focused applications while continuously learning emerging technologies.",
+      "id": "rT8cZTT"
+    }
+  ],
+  "downloads": [
+    {
+      "id": 1
+    },
+    {
+      "resumeid": "rT8cZTT",
+      "datetime": "8/9/2026, 7:30:36 AM",
+      "picture": "blob:http://localhost:5173/41cec2c0-bcff-40e1-93b5-5a6a93a1f7a6",
+      "id": 2
+    },
+    {
+      "resumeid": "rT8cZTT",
+      "datetime": "8/9/2026, 7:32:43 AM",
+      "picture": "blob:http://localhost:5173/4c0faf6a-284c-4d2b-95c1-01f551745153",
+      "id": 3
+    }
+  ]
+}
